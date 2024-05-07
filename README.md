@@ -1,6 +1,4 @@
-# Writeup for HW3P2
 
-Author: Zongyue Zhao (zongyuez@andrew.cmu.edu)
 
 ## Run:
 Please run `python hw3.py --train --bi`. The rest hyperparameters are set to
